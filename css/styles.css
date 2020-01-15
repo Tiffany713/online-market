@@ -1,0 +1,13 @@
+#reciept {
+  display: none;
+}
+
+.formdesign {
+  border-style: dotted;
+  padding: 10px;
+  background: white;
+}
+
+body {
+  background-image: url(clouds.jpg);
+}
